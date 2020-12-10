@@ -1,0 +1,21 @@
+{
+  "name": "safeguarding",
+  "version": "1.0.0",
+  "description": "safeguarding code generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudarshana",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.2.0",
+    "mailgen": "^2.0.14",
+    "path": "^0.12.7",
+    "read-excel-file": "^4.1.0",
+    "xlsx": "^0.16.9",
+    "xlsx-populate": "^1.21.0"
+  }
+}
